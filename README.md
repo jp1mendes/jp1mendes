@@ -4,7 +4,7 @@ Meu nome é João Paulo Mendes, sou formado em Engenharia Química e trabalho co
 
 Atualmente, atuo definindo novos processos necessários para industrialização de novos produtos e através de análise de dados e ferramentas de melhoria contínua eu encontro soluções que tragam resultados para o negócio, garantindo prazo, custo, qualidade e viabilidade produtiva de um produto novo.
 
-A fim de melhorar minhas análises, iniciei um trabalho pessoal sobre Ciência de Dados, para ganhar mais experiência sobre as ferramentas de análise de dados e conseguir soluções cada vez mais relevantes e assertivas! Aqui você encontra o detalhamento de todos meus projetos, com as ferramentas utilizadas, método de resolução de problemas e os insights finais! 
+A fim de melhorar minhas entregas, iniciei um trabalho pessoal sobre Ciência de Dados, para ganhar mais experiência sobre as ferramentas de análise de dados e conseguir soluções cada vez mais relevantes e assertivas! Aqui você encontra o detalhamento de todos meus projetos, com as ferramentas utilizadas, método de resolução de problemas e os insights finais! 
 
 ### Ferramentas: 
 <div style="display: inline_block">
