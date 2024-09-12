@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a)! 👋
+## Olá, seja bem-vindo(a)! 👋🎲
 
 Meu nome é João Paulo Mendes, sou formado em Engenharia Química e trabalho como Engenheiro de Desenvolvimento de Produto.
 
